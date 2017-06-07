@@ -1,1 +1,57 @@
 /*font-family: 'Baloo Paaji', cursive;*/
+
+nav ul li {
+	text-decoration: none;
+	list-style: none;
+	font-size: 15px;  
+	justify-content: space-between;
+}
+
+
+ul li a{
+	display: flex;
+	color: white;
+	justify-content: flex-end;
+}
+
+nav ul {
+	height: 51px;
+	margin-top: 0px;
+}
+
+nav{
+	
+	background-color: #027E99;	
+}	
+
+nav a {
+	cursor: pointer;
+	color: white;
+	text-decoration: none;
+	list-style: none;     
+}
+
+.lista{
+	
+	padding: 15px;
+	text-align: center;
+	width: 100%;
+}
+
+.log{
+	display: flex;
+    justify-content: flex-start;
+    padding-right: 21%;
+}
+
+#bunny{
+	font-family: 'Baloo Paaji', cursive;
+    color: white;
+    font-size: 200%;
+}
+
+#love{
+	font-family: 'Baloo Paaji', cursive;
+    color: #ffadff ;
+    font-size: 200%;
+}
